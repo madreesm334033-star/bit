@@ -17,7 +17,7 @@ const page = () => {
       </div>
       <div className
       ="text-slate-700 dark:text-slate-500">
-        A Pakistani crickter
+        A Pakistani cricket player
       </div>
     </figcaption>
   </div>
